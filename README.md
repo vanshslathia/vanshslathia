@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src=""D:\Test-1 SEM-5\vanshpicturegit.jpg" width="700" alt="banner"/>
+  <img src="D:\Test-1 SEM-5\vanshpicturegit.jpg" width="700" alt="banner"/>
 </p>
 
 ---
