@@ -1,80 +1,80 @@
 <!-- HEADER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C3FF&center=true&vCenter=true&width=500&lines=Hey+👋+I'm+Vansh!;Full+Stack+Developer+%F0%9F%9A%80;Lifelong+Learner+%E2%9C%A8;Code.+Create.+Innovate.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00C3FF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Vansh+Slathia!;Full+Stack+Developer+%F0%9F%9A%80;Building+AI-Integrated+Web+Apps;Code.+Create.+Innovate.">
 </h1>
 
 <p align="center">
-  <img src="https://github.com/vanshslathia/vanshslathia/blob/main/vanshpicturegit.jpg" width="300",height="300"alt="banner"/>
+  <img src="https://github.com/vanshslathia/vanshslathia/blob/main/vanshpicturegit.jpg" width="280" style="border-radius: 50%; border: 2px solid #00C3FF;" alt="Profile Banner"/>
 </p>
 
 ---
 
-### 🧠 About Me  
-🚀 I’m a **developer who loves building beautiful web apps** and solving complex problems.  
-💡 Currently exploring **MERN Stack**, **AI Integrations**, and **System Design**.  
-🎯 Goal: Create impactful software that’s both useful and elegant.  
-⚡ Fun Fact: I turn coffee ☕ into clean code 💻  
+## 🧠 About Me  
+🚀 Passionate **Full Stack Developer** crafting elegant, scalable web apps.  
+💡 Exploring **MERN**, **AI integrations**, and **System Design**.  
+🎯 Building impactful software with real-world value.  
+☕ Coffee → Code → Creativity 💻  
 
 ---
 
-### 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,express,mongodb,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,html,css,git,github,vscode,figma&perline=7" />
 </p>
 
 ---
 
-### 🚀 Featured Projects  
-| 💡 Project | 🧩 Description | ⚙️ Tech Used |
+## 🚀 Featured Projects  
+| 💡 Project | 🧩 Description | ⚙️ Tech Stack |
 |-------------|----------------|--------------|
-| [🌐 Portfolio Website](https://github.com/yourusername/portfolio) | Animated developer portfolio with 3D effects | React, Tailwind, Framer Motion |
-| [💬 Realtime Chat App](https://github.com/yourusername/chatapp) | Private & group chat with live typing indicators | MERN Stack, Socket.io |
-| [📊 DSA Tracker](https://github.com/yourusername/dsa-tracker) | Track coding progress & visualize problem stats | React, Firebase |
-| [⚡ API Dashboard](https://github.com/yourusername/api-dashboard) | REST API analytics and visualization | Node.js, Express, MongoDB |
+| [🌐 Portfolio Website](https://github.com/vanshslathia/portfolio) | Modern portfolio with animations & 3D visuals | React, Tailwind, Framer Motion |
+| [💬 Real-time Chat App](https://github.com/vanshslathia/chatapp) | Group & private chat with live typing | MERN, Socket.io |
+| [📊 DSA Tracker](https://github.com/vanshslathia/dsa-tracker) | Track coding progress & visualize stats | React, Firebase |
+| [⚡ API Dashboard](https://github.com/vanshslathia/api-dashboard) | REST API analytics & performance insights | Node.js, Express, MongoDB |
 
 ---
 
-### 📈 GitHub Stats & Activity
+## 📈 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshslathia&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00C3FF&icon_color=00C3FF" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vanshslathia&theme=react&hide_border=true&ring=00C3FF&fire=00C3FF&currStreakLabel=00C3FF" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&bg_color=0D1117"/>
-</p>
-
----
-
-### 💻 LeetCode & Coding Stats  
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/yourleetcode?theme=dark&font=Nunito&ext=heatmap" width="450"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshslathia&theme=react-dark&hide_border=true&bg_color=0D1117&line=00C3FF&point=FFFFFF"/>
 </p>
 
 ---
 
-### 🌐 Connect With Me  
+## 💻 LeetCode Stats  
 <p align="center">
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/yourleetcode" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="mailto:yourname@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <img src="https://leetcard.jacoblin.cool/vanshslathia?theme=dark&font=Nunito&ext=heatmap" width="450"/>
 </p>
 
 ---
 
-### 🦄 Fun & Flair  
+## 🌐 Connect With Me  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&margin-w=10"/>
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <a href="https://linkedin.com/in/vanshslathia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/vanshslathia" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="mailto:vanshslathia@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://vanshslathia.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
 ---
 
-<h3 align="center">✨ Thanks for stopping by! Have a great day ✨</h3>
+## 🏆 Achievements & Highlights
 <p align="center">
-  <img src="https://i.imgur.com/ghQxZ5K.gif" width="250" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vanshslathia&theme=algolia&no-frame=true&margin-w=10"/>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react-dark"/>
+</p>
+
+---
+
+<h3 align="center">✨ Thanks for visiting — Keep Building, Keep Growing ✨</h3>
+<p align="center">
+  <img src="https://i.imgur.com/ghQxZ5K.gif" width="250"/>
 </p>
