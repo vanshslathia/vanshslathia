@@ -27,7 +27,7 @@
 ## 🚀 Featured Projects  
 | 💡 Project | 🧩 Description | ⚙️ Tech Stack |
 |-------------|----------------|--------------|
-| [🌐 Portfolio Website](https://github.com/vanshslathia/portfolio) | Modern portfolio with animations & 3D visuals | React, Tailwind, Framer Motion |
+| [🌐 Algorithm Visualizer]([https://github.com/vanshslathia/portfolio](https://github.com/vanshslathia/ALGO-VISUALIZER)) | Modern Algorithm Visualizer with animations & 3D visuals | React, Tailwind, Framer Motion |
 | [💬 Real-time Chat App](https://github.com/vanshslathia/chatapp) | Group & private chat with live typing | MERN, Socket.io |
 | [📊 DSA Tracker](https://github.com/vanshslathia/dsa-tracker) | Track coding progress & visualize stats | React, Firebase |
 | [⚡ API Dashboard](https://github.com/vanshslathia/api-dashboard) | REST API analytics & performance insights | Node.js, Express, MongoDB |
@@ -55,8 +55,8 @@
 
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://linkedin.com/in/vanshslathia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/vanshslathia" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vansh-slathia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/slathia2005/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
   <a href="mailto:vanshslathia@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://vanshslathia.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
@@ -64,17 +64,4 @@
 ---
 
 ## 🏆 Achievements & Highlights
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vanshslathia&theme=algolia&no-frame=true&margin-w=10"/>
-</p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react-dark"/>
-</p>
-
----
-
-<h3 align="center">✨ Thanks for visiting — Keep Building, Keep Growing ✨</h3>
-<p align="center">
-  <img src="https://i.imgur.com/ghQxZ5K.gif" width="250"/>
-</p>
