@@ -28,7 +28,7 @@
 | 💡 Project | 🧩 Description | ⚙️ Tech Stack |
 |-------------|----------------|--------------|
 | [🌐 Algorithm Visualizer]([https://github.com/vanshslathia/portfolio](https://github.com/vanshslathia/ALGO-VISUALIZER)) | Modern Algorithm Visualizer with animations & 3D visuals | React, Tailwind, Framer Motion |
-| [💬 Real-time Chat App](https://github.com/vanshslathia/chatapp) | Group & private chat with live typing | MERN, Socket.io |
+| [💬Expense-Tracker(KharchaGuru)](https://github.com/vanshslathia/EXPENSE_TRACKER?tab=readme-ov-file#features) | Group & private chat with live typing | MERN, Socket.io |
 | [📊 DSA Tracker](https://github.com/vanshslathia/dsa-tracker) | Track coding progress & visualize stats | React, Firebase |
 | [⚡ API Dashboard](https://github.com/vanshslathia/api-dashboard) | REST API analytics & performance insights | Node.js, Express, MongoDB |
 
