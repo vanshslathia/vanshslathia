@@ -7,7 +7,7 @@
 ---
 
 ## 👋 About Me 
-> I'm a 3rd-year Computer Science Engineering undergraduate at the National Institute of Engineering (NIE), Bhubaneswar, with a strong passion for building robust and scalable web applications. As a Full Stack Developer, I specialize in crafting responsive frontend interfaces using React and Tailwind CSS, while developing powerful backend systems with Node.js, Express, and MongoDB.
+> I'm a 3rd-year Computer Science Engineering undergraduate at the National Institute of Engineering (NIE), Mysore, with a strong passion for building robust and scalable web applications. As a Full Stack Developer, I specialize in crafting responsive frontend interfaces using React and Tailwind CSS, while developing powerful backend systems with Node.js, Express, and MongoDB.
 Driven by curiosity and a constant desire to learn, I actively explore areas like Data Structures & Algorithms, DevOps tools, and the basics of Machine Learning. I believe in writing clean, maintainable code and creating solutions that deliver real-world impact.
 Currently, I'm working on projects that enhance my understanding of system architecture and bring me closer to my goal of becoming a well-rounded software engineer.
 
