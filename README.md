@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/vanshslathia/vanshslathia/blob/main/ChatGPT%20Image%20Nov%201%2C%202025%2C%2006_23_05%20PM.png" width="900" alt="Vansh Slathia Banner" />
+  <img src="https://github.com/vanshslathia/vanshslathia/blob/main/new%20image.png"  alt="Vansh Slathia Banner" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-Pro-blueviolet?style=for-the-badge&logo=github" />
