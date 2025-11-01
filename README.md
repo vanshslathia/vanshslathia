@@ -7,20 +7,21 @@
 ---
 
 ## 👋 About Me 
->  I'm a Final year Computer Science Engineering undergraduate at SIT Bhubaneswar with a strong passion for building robust and scalable web applications. As a Full Stack Developer, I specialize in crafting responsive frontend interfaces using React and Tailwind CSS, while also building powerful backend systems with Node.js, Express, and MongoDB. My journey into tech is driven by curiosity and a constant desire to learn — whether it's diving deep into Data Structures & Algorithms, experimenting with DevOps tools, or exploring the basics of Machine Learning. I believe in writing clean, maintainable code and developing solutions that make a real-world impact. Currently, I'm building projects that enhance my understanding of real-life system architecture and contribute to my goal of becoming a well-rounded software engineer.</p>
-
+> I'm a 3rd-year Computer Science Engineering undergraduate at the National Institute of Engineering (NIE), Bhubaneswar, with a strong passion for building robust and scalable web applications. As a Full Stack Developer, I specialize in crafting responsive frontend interfaces using React and Tailwind CSS, while developing powerful backend systems with Node.js, Express, and MongoDB.
+Driven by curiosity and a constant desire to learn, I actively explore areas like Data Structures & Algorithms, DevOps tools, and the basics of Machine Learning. I believe in writing clean, maintainable code and creating solutions that deliver real-world impact.
+Currently, I'm working on projects that enhance my understanding of system architecture and bring me closer to my goal of becoming a well-rounded software engineer.
 
 ---
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiteshbhakat/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_jitesh.25.16_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-slathia/)  
 
 ---
 
 ## 📘 DSA Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/JiteshBhakat/)  [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/jiteshbh0v71/)  [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/jiteshbhakat16)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/slathia2005/)  [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/vanshslatiao0/)  
 
 ---
 
