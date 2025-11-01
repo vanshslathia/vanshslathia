@@ -1,4 +1,6 @@
-![Banner](https://github.com/vanshslathia/vanshslathia/blob/main/ChatGPT%20Image%20Nov%201%2C%202025%2C%2006_23_05%20PM.png)
+<p align="center">
+  <img src="https://github.com/vanshslathia/vanshslathia/blob/main/ChatGPT%20Image%20Nov%201%2C%202025%2C%2006_23_05%20PM.png" width="900" alt="Vansh Slathia Banner" />
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-Pro-blueviolet?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Currently_Building-MarketVerse-orange?style=for-the-badge&logo=producthunt" />
@@ -59,11 +61,12 @@ Currently, I'm working on projects that enhance my understanding of system archi
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Jitesh8260&theme=radical&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jitesh8260&layout=compact&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=vanshslathia&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSlathia&layout=compact&theme=radical&hide_border=false)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Jitesh8260&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=VanshSlathia&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 > “Code. Debug. Repeat. Deploy. 🚀”  
 <!-- Crafted with ❤️ by Jitesh Bhakat -->
