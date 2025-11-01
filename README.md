@@ -1,4 +1,4 @@
-![Banner](https://github.com/Jitesh8260/Jitesh8260/blob/main/jitesh%20bhakat.png)
+![Banner](https://github.com/vanshslathia/vanshslathia/blob/main/ChatGPT%20Image%20Nov%201%2C%202025%2C%2006_23_05%20PM.png)
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-Pro-blueviolet?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Currently_Building-MarketVerse-orange?style=for-the-badge&logo=producthunt" />
