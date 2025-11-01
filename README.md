@@ -15,6 +15,38 @@ Currently, I'm working on projects that enhance my understanding of system archi
 
 ---
 
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://expensync.vercel.app/">
+    <img src="https://img.shields.io/badge/Expensync-Expense_Tracker-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Expensync" />
+  </a>
+  <a href="https://github.com/vanshslathia/sorting-visualizer">
+    <img src="https://img.shields.io/badge/AlgoVisualizer-Sorting_Visualizer-green?style=for-the-badge&logo=javascript&logoColor=white" alt="Algorithm Visualizer" />
+  </a>
+</p>
+
+### 🧾 [Expensync](https://expensync.vercel.app/)
+> A MERN-based expense tracker that helps users manage and visualize spending using interactive charts.  
+**Tech Stack:** React, Node.js, Express.js, MongoDB, Tailwind CSS, Chart.js  
+
+### 💡 [Algorithm Visualizer](https://github.com/vanshslathia/sorting-visualizer)
+> An interactive web app to visualize popular sorting algorithms step-by-step.  
+**Tech Stack:** HTML, CSS, JavaScript  
+
+---
+
+## 🚀 Featured Projects
+
+### 🧾 Expensync
+![Expensync Preview](https://github.com/vanshslathia/Expensync/blob/main/preview.png)
+> Expense tracker built with MERN Stack for efficient finance tracking.
+🔗 [Live Demo](https://expensync.vercel.app/) | [GitHub Repo](https://github.com/vanshslathia/Expensync)
+
+
+
 ## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-slathia/)  
