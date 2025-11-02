@@ -54,7 +54,7 @@ Currently, I'm working on projects that enhance my understanding of system archi
 
 ## 📘 DSA Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/slathia2005/)  [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/vanshslatiao0/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/slathia20005/)  [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeekss.org/user/vanshslatiao0/)  
 
 ---
 
