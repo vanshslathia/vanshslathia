@@ -41,7 +41,6 @@ Currently, I'm working on projects that enhance my understanding of system archi
 ## 🚀 Featured Projects
 
 ### 🧾 Expensync
-![Expensync Preview](https://github.com/vanshslathia/Expensync/blob/main/preview.png)
 > Expense tracker built with MERN Stack for efficient finance tracking.
 🔗 [Live Demo](https://expense-tracker-frontend-nu-ochre.vercel.app/) | [GitHub Frontend Repo](https://github.com/vanshslathia/EXPENSE_TRACKER_FRONTEND) | [GitHub Backend Repo](https://github.com/vanshslathia/EXPENSE_TRACKER)
 
