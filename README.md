@@ -28,21 +28,18 @@ Currently, I'm working on projects that enhance my understanding of system archi
   </a>
 </p>
 
-### 🧾 [Expensync](https://expensync.vercel.app/)
-> A MERN-based expense tracker that helps users manage and visualize spending using interactive charts.  
-**Tech Stack:** React, Node.js, Express.js, MongoDB, Tailwind CSS, Chart.js  
-
-### 💡 [Algorithm Visualizer](https://github.com/vanshslathia/sorting-visualizer)
-> An interactive web app to visualize popular sorting algorithms step-by-step.  
-**Tech Stack:** HTML, CSS, JavaScript  
-
----
 
 ## 🚀 Featured Projects
 
 ### 🧾 Expensync
 > Expense tracker built with MERN Stack for efficient finance tracking.
 🔗 [Live Demo](https://expense-tracker-visiualizer-fronten.vercel.app/) | [GitHub Frontend Repo](https://github.com/vanshslathia/Expense_tracker_Visiualizer_Frontend) | [GitHub Backend Repo](https://github.com/vanshslathia/Expense_tracker_visiualizer_Backend)
+>
+> ### 💡 [Algorithm Visualizer](https://github.com/vanshslathia/sorting-visualizer)
+> An interactive web app to visualize popular sorting algorithms step-by-step.  
+**Tech Stack:** HTML, CSS, JavaScript  
+
+---
 
 
 
