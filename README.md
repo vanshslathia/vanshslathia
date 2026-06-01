@@ -31,30 +31,16 @@ Tech Stack: React.js, Node.js, Express.js, MongoDB, JWT, Gemini AI, Puppeteer
 
 🔗 GitHub Repository: https://github.com/vanshslathia/AI-Interview-Preparation
 
-Key Features:
-
-Resume Upload & Parsing
-AI Skill Extraction
-Job Description Analysis
-Skill Gap Detection
-Personalized Interview Questions
-ATS-Friendly Resume Generator
-PDF Generation using Puppeteer
-JWT Authentication & Protected Routes
-
-<p align="center">
-  <a href="https://expensync.vercel.app/">
-    <img src="https://img.shields.io/badge/Expensync-Expense_Tracker-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Expensync" />
-  </a>
-  <a href="https://github.com/vanshslathia/sorting-visualizer">
-    <img src="https://img.shields.io/badge/AlgoVisualizer-Sorting_Visualizer-green?style=for-the-badge&logo=javascript&logoColor=white" alt="Algorithm Visualizer" />
-  </a>
-</p>
-
 
 ### 🧾 Expensync
 > Expense tracker built with MERN Stack for efficient finance tracking.
-🔗 [Live Demo](https://expense-tracker-visiualizer-fronten.vercel.app/) | [GitHub Frontend Repo](https://github.com/vanshslathia/Expense_tracker_Visiualizer_Frontend) | [GitHub Backend Repo](https://github.com/vanshslathia/Expense_tracker_visiualizer_Backend)
+> 
+🔗 [Live Demo](https://expense-tracker-visiualizer-fronten.vercel.app/) | [GitHub Frontend Repo]
+
+(https://github.com/vanshslathia/Expense_tracker_Visiualizer_Frontend) | [GitHub Backend Repo]
+
+(https://github.com/vanshslathia/Expense_tracker_visiualizer_Backend)
+>
 >
 > ### 💡 [Algorithm Visualizer](https://github.com/vanshslathia/sorting-visualizer)
 > An interactive web app to visualize popular sorting algorithms step-by-step.  
