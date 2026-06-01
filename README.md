@@ -26,7 +26,9 @@ A Production-Ready Full Stack Gen AI application that helps users prepare for in
 Tech Stack: React.js, Node.js, Express.js, MongoDB, JWT, Gemini AI, Puppeteer
 
 🔗 Live Demo: https://ai-interview-preparation-navy.vercel.app/
+
 🔗 Backend API: https://ai-interview-preparation-vpcf.onrender.com
+
 🔗 GitHub Repository: https://github.com/vanshslathia/AI-Interview-Preparation
 
 Key Features:
