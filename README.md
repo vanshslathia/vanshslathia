@@ -19,6 +19,27 @@ Currently, I'm working on projects that enhance my understanding of system archi
 
 ## 🚀 Featured Projects
 
+🤖 AI Interview Preparation Platform
+
+A Production-Ready Full Stack Gen AI application that helps users prepare for interviews through resume analysis, skill-gap detection, ATS resume generation, and AI-powered interview question generation.
+
+Tech Stack: React.js, Node.js, Express.js, MongoDB, JWT, Gemini AI, Puppeteer
+
+🔗 Live Demo: https://ai-interview-preparation-navy.vercel.app/
+🔗 Backend API: https://ai-interview-preparation-vpcf.onrender.com
+🔗 GitHub Repository: https://github.com/vanshslathia/AI-Interview-Preparation
+
+Key Features:
+
+Resume Upload & Parsing
+AI Skill Extraction
+Job Description Analysis
+Skill Gap Detection
+Personalized Interview Questions
+ATS-Friendly Resume Generator
+PDF Generation using Puppeteer
+JWT Authentication & Protected Routes
+
 <p align="center">
   <a href="https://expensync.vercel.app/">
     <img src="https://img.shields.io/badge/Expensync-Expense_Tracker-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Expensync" />
@@ -28,8 +49,6 @@ Currently, I'm working on projects that enhance my understanding of system archi
   </a>
 </p>
 
-
-## 🚀 Featured Projects
 
 ### 🧾 Expensync
 > Expense tracker built with MERN Stack for efficient finance tracking.
