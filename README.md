@@ -120,132 +120,207 @@
 
 <!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
 
+
+<!-- ═════════════════════ FEATURED PROJECTS ═════════════════════ -->
+
 <h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
 
-<i>Ideas engineered into applications.</i>
+### Turning Ideas Into Real-World Software
+
+<i>Building AI-powered products, developer tools, and practical applications.</i>
+
+<br/>
+
+<img src="https://img.shields.io/badge/PROJECTS-03-58A6FF?style=for-the-badge&labelColor=161B22"/>
+<img src="https://img.shields.io/badge/FOCUS-Full--Stack%20%2B%20AI-BC8CFF?style=for-the-badge&labelColor=161B22"/>
+<img src="https://img.shields.io/badge/ENGINEERING-APIs%20%7C%20CI%2FCD-3FB950?style=for-the-badge&labelColor=161B22"/>
 
 </div>
 
-### 🔮 01. VirtualUI
+<br/>
 
-<h4>AI-Powered React UI Library & Component Generator</h4>
-
-A full-stack SaaS project focused on generating reusable React UI components with AI and distributing components through an npm package.
+<!-- PROJECT 01 -->
 
 <table>
 <tr>
-<td width="50%">
+<td>
 
-**✨ Core Features**
+<h2>🔮 VirtualUI</h2>
 
-- 🤖 AI-powered component generation
-- 🧩 Reusable React UI components
-- 🔐 JWT authentication
-- 📦 npm package publishing
-- 💳 Razorpay subscription integration
-- 🔗 REST API development
+<h3>AI-Powered React UI Library & Component Generator</h3>
 
-</td>
-<td width="50%">
+<img src="https://img.shields.io/badge/AI-Powered-BC8CFF?style=flat-square&logo=probot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Developer-Tools-58A6FF?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/SaaS-Product-3FB950?style=flat-square"/>
 
-**⚡ Technology Stack**
+<br/><br/>
 
-- React
-- Spring Boot
-- MongoDB
-- OpenRouter AI
-- JWT
-- npm
-- Razorpay
+Build reusable React UI components with AI. VirtualUI combines component generation with a full-stack platform for authentication, subscriptions, and npm package distribution.
 
-</td>
-</tr>
-</table>
+---
+
+**✨ Key Features**
+
+| | Capability | Description |
+|:--:|---|---|
+| 🤖 | AI Generation | Generate reusable React UI components using OpenRouter AI |
+| 🧩 | Component Library | Focus on reusable, developer-friendly UI components |
+| 🔐 | Authentication | JWT-based authentication |
+| 📦 | npm Distribution | Publish and distribute components through npm |
+| 💳 | Subscriptions | Razorpay subscription integration |
+| 🔗 | Backend APIs | REST API development |
+
+**🛠️ Technology Stack**
 
 <div align="center">
 
-<!-- Replace the repository URL below with the actual VirtualUI repository. -->
+<img src="https://skillicons.dev/icons?i=react,spring,mongodb&theme=dark" alt="React, Spring, MongoDB"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/OpenRouter-AI-6467F2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens"/>
+<img src="https://img.shields.io/badge/npm-Package-CC3534?style=for-the-badge&logo=npm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Razorpay-Payments-0C2451?style=for-the-badge"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Replace this with the actual VirtualUI repository URL. -->
 <a href="https://github.com/vanshslathia?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub repositories"/>
+<img src="https://img.shields.io/badge/⌘_EXPLORE_PROJECT-FFFFFF?style=for-the-badge&logo=github&logoColor=181717" alt="Explore project repositories"/>
 </a>
 
 </div>
 
----
-
-### 🤖 02. ElevateAI
-
-<h4>AI-Powered Interview Preparation Platform</h4>
-
-A full-stack application that helps candidates prepare for interviews through resume analysis, personalized questions, and ATS-friendly resume generation.
-
-<table>
-<tr>
-<td width="50%">
-
-**✨ Key Features**
-
-- 📄 Gemini AI resume analysis
-- 🎯 Personalized interview questions
-- 📊 Resume and skill-gap analysis
-- 📝 ATS-friendly resume generation
-- 🔐 JWT authentication
-- 🔌 REST APIs
-
-</td>
-<td width="50%">
-
-**⚙️ Engineering Highlights**
-
-- 🐳 Dockerized frontend and backend
-- 📦 Docker Compose orchestration
-- 🔄 GitHub Actions CI pipeline
-- 🚀 Docker image build automation
-- ☁️ Docker Hub image publishing
-
 </td>
 </tr>
 </table>
 
-**Tech Stack**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,docker,githubactions&theme=dark" alt="ElevateAI technologies"/>
+<!-- PROJECT 02 -->
+
+<table>
+<tr>
+<td>
+
+<h2>🤖 ElevateAI</h2>
+
+<h3>AI-Powered Interview Preparation Platform</h3>
+
+<img src="https://img.shields.io/badge/Generative-AI-BC8CFF?style=flat-square&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full--Stack-Application-58A6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/DevOps-CI%2FCD-3FB950?style=flat-square&logo=docker&logoColor=white"/>
+
+<br/><br/>
+
+An AI-powered interview preparation platform that helps candidates analyze resumes, identify skill gaps, generate personalized interview questions, and create ATS-friendly resumes.
+
+---
+
+**✨ Application Features**
+
+- 📄 **AI Resume Analysis** — Analyze resumes using Gemini AI.
+- 🎯 **Personalized Preparation** — Generate interview questions tailored to the candidate.
+- 📊 **Skill-Gap Analysis** — Compare skills against job descriptions.
+- 📝 **ATS Resume Generation** — Generate structured, ATS-friendly resumes.
+- 🔐 **Secure Authentication** — JWT-based authentication and REST APIs.
+
+**⚙️ Engineering Highlights**
+
+- 🐳 Containerized frontend and backend using Docker.
+- 📦 Multi-service setup with Docker Compose.
+- 🔄 GitHub Actions CI workflow.
+- 🚀 Automated frontend and backend Docker image builds.
+- ☁️ Image publishing to Docker Hub.
+
+**🛠️ Technology Stack**
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,docker,githubactions&theme=dark" alt="React, Node.js, Express, MongoDB, Docker, GitHub Actions"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Gemini-AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-Auth-000000?style=for-the-badge&logo=jsonwebtokens"/>
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+</div>
+
+<br/>
 
 <div align="center">
 
 <a href="https://ai-interview-preparation-navy.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-2EA44F?style=for-the-badge" alt="Live Demo"/>
+<img src="https://img.shields.io/badge/🌐_LIVE_DEMO-238636?style=for-the-badge" alt="Live Demo"/>
 </a>
 <a href="https://github.com/vanshslathia/AI-Interview-Preparation">
-<img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github" alt="Source Code"/>
+<img src="https://img.shields.io/badge/⌘_SOURCE_CODE-FFFFFF?style=for-the-badge&logo=github&logoColor=181717" alt="Source Code"/>
 </a>
 <a href="https://ai-interview-preparation-vpcf.onrender.com">
-<img src="https://img.shields.io/badge/⚡_Backend_API-6C5CE7?style=for-the-badge" alt="Backend API"/>
+<img src="https://img.shields.io/badge/⚡_BACKEND_API-6F42C1?style=for-the-badge" alt="Backend API"/>
 </a>
 
 </div>
 
----
+</td>
+</tr>
+</table>
 
-### 🧮 03. Algorithm Visualizer
+<br/>
 
-<h4>Interactive Sorting Algorithm Visualization</h4>
+<!-- PROJECT 03 -->
 
-An interactive web application that visualizes sorting algorithms step by step, helping users understand how algorithms rearrange data.
+<table>
+<tr>
+<td>
 
-**Tech Stack:** HTML · CSS · JavaScript
+<h2>🧮 Algorithm Visualizer</h2>
+
+<h3>Making Algorithms Visual & Interactive</h3>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Algorithms-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Interactive-UI-3FB950?style=flat-square"/>
+
+An interactive web application that visualizes sorting algorithms step by step, making algorithm behavior easier to explore and understand.
+
+**💡 Built With**
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS, JavaScript"/>
+
+<br/>
 
 <div align="center">
 
 <a href="https://github.com/vanshslathia/sorting-visualizer">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Algorithm Visualizer repository"/>
+<img src="https://img.shields.io/badge/⌘_VIEW_SOURCE_CODE-FFFFFF?style=for-the-badge&logo=github&logoColor=181717" alt="View source code"/>
 </a>
 
 </div>
 
+</td>
+</tr>
+</table>
+
 ---
+
+<div align="center">
+
+### 💡 From Concept to Code
+
+<i>Design thoughtfully. Engineer reliably. Keep improving.</i>
+
+</div>
+
 
 <!-- ═══════════════════════ ENGINEERING ═══════════════════════ -->
 
