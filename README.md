@@ -31,11 +31,6 @@
 
 <h2 align="center">⚡ About Me</h2>
 
-<img align="right" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer coding animation"/>
-
-
-<h2 align="center">⚡ About Me</h2>
-
 <table>
 <tr>
 <td width="62%" valign="middle">
