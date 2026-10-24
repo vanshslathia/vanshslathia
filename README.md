@@ -33,40 +33,57 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer coding animation"/>
 
-```yaml
-name: Vansh Slathia
-education: B.E. Computer Science Engineering
-college: The National Institute of Engineering, Mysore
-graduation: 2027
 
-interests:
-  - Software Engineering
-  - Full Stack Development
-  - Generative AI Applications
-  - Backend Engineering
-  - DevOps and CI/CD
-  - Data Structures & Algorithms
+<h2 align="center">⚡ About Me</h2>
 
-currently_building:
-  - AI-powered applications
-  - Developer-focused software products
+<table>
+<tr>
+<td width="62%" valign="middle">
 
-mindset: "Build. Learn. Optimize. Repeat."
-```
+<h3>👋 Hey, I'm Vansh Slathia!</h3>
 
-🎓 Fourth-year Computer Science student who enjoys turning ideas into useful software.
+🎓 Fourth-year Computer Science Engineering student at **The National Institute of Engineering, Mysore**, graduating in 2027.
 
-💻 I build full-stack applications with modern frontend frameworks, backend APIs, and database-driven architectures.
+💻 I enjoy turning ideas into **real-world software products** — from interactive frontends and robust backend APIs to AI-powered applications.
 
-🤖 I explore practical AI integrations to create smarter applications and developer tools.
+🚀 Currently exploring the intersection of **Full-Stack Development, Generative AI, and DevOps**, building applications that go beyond just working — they solve problems.
 
-⚙️ I work with containerization and CI/CD workflows to improve development and delivery.
+🧠 I believe great engineering comes from strong fundamentals, thoughtful design, and continuous improvement.
 
-🧠 I continuously strengthen my problem-solving skills and software engineering fundamentals.
+<br/>
 
-<br clear="right"/>
+**💡 What I'm focused on**
 
----
+- ⚡ Building full-stack applications and developer tools
+- 🤖 Integrating AI into practical software products
+- ⚙️ Exploring Docker, CI/CD, and deployment workflows
+- 🧩 Strengthening DSA and software engineering fundamentals
+
+<br/>
+
+**🎯 My philosophy:** Build with purpose. Learn continuously. Improve relentlessly.
+
+</td>
+<td width="38%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Developer working at a computer"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Full--Stack-Developer-2ea44f?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack Developer"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AI--Powered-Applications-8A2BE2?style=for-the-badge&logo=googlecloud&logoColor=white" alt="AI Applications"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/DevOps-CI%2FCD-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="DevOps and CI/CD"/>
+
+</td>
+</tr>
+</table>
+
 
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 
